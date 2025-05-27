@@ -1,6 +1,6 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-.cart {
+.icons {
   display: flex;
-  justify-content: end;
+  justify-content: center;
 }

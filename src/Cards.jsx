@@ -3,6 +3,7 @@ import "./Cards.css";
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import india from "./india.jpg";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Cards() {
   return (
